@@ -21,12 +21,16 @@ along with Gephi.  If not, see <http://www.gnu.org/licenses/>.
 package org.gephi.toolkit.demos;
 
 public class Main {
+    
+    /*public static void main(String[] args) {
 
-    public static void main(String[] args) {
-
-        HeadlessSimple headlessSimple = new HeadlessSimple();
-        headlessSimple.script();
-
+        ImportFile importGraph = new ImportFile();
+        importGraph.script();
+        
+      //  WithAutoLayout autoLayout = new WithAutoLayout();
+        //autoLayout.script();
+    
+/*
         WithAutoLayout autoLayout = new WithAutoLayout();
         autoLayout.script();
 
@@ -59,5 +63,7 @@ public class Main {
 
         ImportDynamic importDynamic = new ImportDynamic();
         importDynamic.script();
+
     }
+*/
 }

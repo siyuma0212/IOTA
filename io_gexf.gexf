@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-07-19">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="0.0" label="Myriel">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="143.83015" y="-253.78366"></viz:position>
+      </node>
+      <node id="1.0" label="Napoleon">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-72.337814" y="-441.37418"></viz:position>
+      </node>
+      <node id="2.0" label="MlleBaptistine">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-441.24554" y="-480.5761"></viz:position>
+      </node>
+      <node id="3.0" label="MmeMagloire">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-436.42984" y="97.71316"></viz:position>
+      </node>
+      <node id="4.0" label="CountessDeLo">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="268.6231" y="-361.32748"></viz:position>
+      </node>
+      <node id="5.0" label="Geborand">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="444.46033" y="-167.69537"></viz:position>
+      </node>
+      <node id="6.0" label="Champtercier">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="382.67957" y="-185.39154"></viz:position>
+      </node>
+      <node id="7.0" label="Cravatte">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-270.13507" y="-449.84158"></viz:position>
+      </node>
+      <node id="8.0" label="Count">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="113.6935" y="-57.714054"></viz:position>
+      </node>
+      <node id="9.0" label="OldMan">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="173.12721" y="-73.45835"></viz:position>
+      </node>
+      <node id="10.0" label="Labarre">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-124.331314" y="180.53159"></viz:position>
+      </node>
+      <node id="11.0" label="Valjean">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-185.16002" y="224.85648"></viz:position>
+      </node>
+      <node id="12.0" label="Marguerite">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-359.29254" y="-317.34613"></viz:position>
+      </node>
+      <node id="13.0" label="MmeDeR">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-488.61703" y="-463.31107"></viz:position>
+      </node>
+      <node id="14.0" label="Isabeau">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-144.40126" y="-8.776158"></viz:position>
+      </node>
+      <node id="15.0" label="Gervais">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="212.89687" y="269.80563"></viz:position>
+      </node>
+      <node id="16.0" label="Tholomyes">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="141.54903" y="-490.93317"></viz:position>
+      </node>
+      <node id="17.0" label="Listolier">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="343.5072" y="132.66544"></viz:position>
+      </node>
+      <node id="18.0" label="Fameuil">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="204.57741" y="389.26895"></viz:position>
+      </node>
+      <node id="19.0" label="Blacheville">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-143.66106" y="435.29965"></viz:position>
+      </node>
+      <node id="20.0" label="Favourite">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-130.55312" y="-351.0835"></viz:position>
+      </node>
+      <node id="21.0" label="Dahlia">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-463.16202" y="128.95578"></viz:position>
+      </node>
+      <node id="22.0" label="Zephine">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-83.39513" y="304.45084"></viz:position>
+      </node>
+      <node id="23.0" label="Fantine">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-89.85658" y="-359.31393"></viz:position>
+      </node>
+      <node id="24.0" label="MmeThenardier">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="449.46014" y="-149.06622"></viz:position>
+      </node>
+      <node id="25.0" label="Thenardier">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-328.2696" y="224.10452"></viz:position>
+      </node>
+      <node id="26.0" label="Cosette">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-151.5785" y="463.18484"></viz:position>
+      </node>
+      <node id="27.0" label="Javert">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-94.72963" y="243.82199"></viz:position>
+      </node>
+      <node id="28.0" label="Fauchelevent">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-21.522385" y="-116.33604"></viz:position>
+      </node>
+      <node id="29.0" label="Bamatabois">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="477.63086" y="-461.38968"></viz:position>
+      </node>
+      <node id="30.0" label="Perpetue">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="208.69814" y="80.13827"></viz:position>
+      </node>
+      <node id="31.0" label="Simplice">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-91.83388" y="-232.866"></viz:position>
+      </node>
+      <node id="32.0" label="Scaufflaire">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-25.112534" y="405.585"></viz:position>
+      </node>
+      <node id="33.0" label="Woman1">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-302.0769" y="430.12796"></viz:position>
+      </node>
+      <node id="34.0" label="Judge">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="70.724625" y="173.44754"></viz:position>
+      </node>
+      <node id="35.0" label="Champmathieu">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-425.88336" y="84.18838"></viz:position>
+      </node>
+      <node id="36.0" label="Brevet">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-411.9261" y="273.2747"></viz:position>
+      </node>
+      <node id="37.0" label="Chenildieu">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="356.20294" y="114.88332"></viz:position>
+      </node>
+      <node id="38.0" label="Cochepaille">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="443.75317" y="-305.0624"></viz:position>
+      </node>
+      <node id="39.0" label="Pontmercy">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="182.10707" y="320.67783"></viz:position>
+      </node>
+      <node id="40.0" label="Boulatruelle">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-272.10327" y="-395.96616"></viz:position>
+      </node>
+      <node id="41.0" label="Eponine">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-353.36298" y="474.20847"></viz:position>
+      </node>
+      <node id="42.0" label="Anzelma">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-311.8468" y="-83.24998"></viz:position>
+      </node>
+      <node id="43.0" label="Woman2">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1.1561133" y="-26.26929"></viz:position>
+      </node>
+      <node id="44.0" label="MotherInnocent">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="24.309464" y="159.37119"></viz:position>
+      </node>
+      <node id="45.0" label="Gribier">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-78.937485" y="-324.89825"></viz:position>
+      </node>
+      <node id="46.0" label="Jondrette">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="309.5324" y="-234.21375"></viz:position>
+      </node>
+      <node id="47.0" label="MmeBurgon">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-430.40375" y="3.4496717"></viz:position>
+      </node>
+      <node id="48.0" label="Gavroche">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-222.72627" y="-134.24384"></viz:position>
+      </node>
+      <node id="49.0" label="Gillenormand">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="495.48364" y="483.7211"></viz:position>
+      </node>
+      <node id="50.0" label="Magnon">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="416.98267" y="47.37173"></viz:position>
+      </node>
+      <node id="51.0" label="MlleGillenormand">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-216.48787" y="-99.41474"></viz:position>
+      </node>
+      <node id="52.0" label="MmePontmercy">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="307.12476" y="-460.95377"></viz:position>
+      </node>
+      <node id="53.0" label="MlleVaubois">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="248.62172" y="400.71494"></viz:position>
+      </node>
+      <node id="54.0" label="LtGillenormand">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="380.60474" y="-250.45224"></viz:position>
+      </node>
+      <node id="55.0" label="Marius">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-188.93437" y="-15.748998"></viz:position>
+      </node>
+      <node id="56.0" label="BaronessT">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="365.54486" y="128.9946"></viz:position>
+      </node>
+      <node id="57.0" label="Mabeuf">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="235.17421" y="-2.7020006"></viz:position>
+      </node>
+      <node id="58.0" label="Enjolras">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="473.46954" y="-130.60324"></viz:position>
+      </node>
+      <node id="59.0" label="Combeferre">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="261.29242" y="433.58658"></viz:position>
+      </node>
+      <node id="60.0" label="Prouvaire">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-482.6988" y="50.244778"></viz:position>
+      </node>
+      <node id="61.0" label="Feuilly">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-213.55992" y="80.97793"></viz:position>
+      </node>
+      <node id="62.0" label="Courfeyrac">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-466.8286" y="452.80777"></viz:position>
+      </node>
+      <node id="63.0" label="Bahorel">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="156.46864" y="-192.72552"></viz:position>
+      </node>
+      <node id="64.0" label="Bossuet">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-347.09595" y="416.21854"></viz:position>
+      </node>
+      <node id="65.0" label="Joly">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-179.0335" y="-430.16074"></viz:position>
+      </node>
+      <node id="66.0" label="Grantaire">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-71.86998" y="-210.91211"></viz:position>
+      </node>
+      <node id="67.0" label="MotherPlutarch">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-428.1101" y="54.81747"></viz:position>
+      </node>
+      <node id="68.0" label="Gueulemer">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="42.341263" y="242.30246"></viz:position>
+      </node>
+      <node id="69.0" label="Babet">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="337.87427" y="204.29031"></viz:position>
+      </node>
+      <node id="70.0" label="Claquesous">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="363.7973" y="-48.173588"></viz:position>
+      </node>
+      <node id="71.0" label="Montparnasse">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="38.406815" y="273.48215"></viz:position>
+      </node>
+      <node id="72.0" label="Toussaint">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-409.95377" y="-65.259224"></viz:position>
+      </node>
+      <node id="73.0" label="Child1">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="315.51752" y="475.18027"></viz:position>
+      </node>
+      <node id="74.0" label="Child2">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="313.92493" y="127.41732"></viz:position>
+      </node>
+      <node id="75.0" label="Brujon">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="55.373062" y="-285.18454"></viz:position>
+      </node>
+      <node id="76.0" label="MmeHucheloup">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="201.25465" y="-368.36026"></viz:position>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="58744" source="1.0" target="0.0"></edge>
+      <edge id="58745" source="2.0" target="0.0" weight="8.0"></edge>
+      <edge id="58746" source="3.0" target="0.0" weight="10.0"></edge>
+      <edge id="58747" source="3.0" target="2.0" weight="6.0"></edge>
+      <edge id="58748" source="4.0" target="0.0"></edge>
+      <edge id="58749" source="5.0" target="0.0"></edge>
+      <edge id="58750" source="6.0" target="0.0"></edge>
+      <edge id="58751" source="7.0" target="0.0"></edge>
+      <edge id="58752" source="8.0" target="0.0" weight="2.0"></edge>
+      <edge id="58753" source="9.0" target="0.0"></edge>
+      <edge id="58754" source="11.0" target="10.0"></edge>
+      <edge id="58755" source="11.0" target="3.0" weight="3.0"></edge>
+      <edge id="58756" source="11.0" target="2.0" weight="3.0"></edge>
+      <edge id="58757" source="11.0" target="0.0" weight="5.0"></edge>
+      <edge id="58758" source="12.0" target="11.0"></edge>
+      <edge id="58759" source="13.0" target="11.0"></edge>
+      <edge id="58760" source="14.0" target="11.0"></edge>
+      <edge id="58761" source="15.0" target="11.0"></edge>
+      <edge id="58762" source="17.0" target="16.0" weight="4.0"></edge>
+      <edge id="58763" source="18.0" target="16.0" weight="4.0"></edge>
+      <edge id="58764" source="18.0" target="17.0" weight="4.0"></edge>
+      <edge id="58765" source="19.0" target="16.0" weight="4.0"></edge>
+      <edge id="58766" source="19.0" target="17.0" weight="4.0"></edge>
+      <edge id="58767" source="19.0" target="18.0" weight="4.0"></edge>
+      <edge id="58768" source="20.0" target="16.0" weight="3.0"></edge>
+      <edge id="58769" source="20.0" target="17.0" weight="3.0"></edge>
+      <edge id="58770" source="20.0" target="18.0" weight="3.0"></edge>
+      <edge id="58771" source="20.0" target="19.0" weight="4.0"></edge>
+      <edge id="58772" source="21.0" target="16.0" weight="3.0"></edge>
+      <edge id="58773" source="21.0" target="17.0" weight="3.0"></edge>
+      <edge id="58774" source="21.0" target="18.0" weight="3.0"></edge>
+      <edge id="58775" source="21.0" target="19.0" weight="3.0"></edge>
+      <edge id="58776" source="21.0" target="20.0" weight="5.0"></edge>
+      <edge id="58777" source="22.0" target="16.0" weight="3.0"></edge>
+      <edge id="58778" source="22.0" target="17.0" weight="3.0"></edge>
+      <edge id="58779" source="22.0" target="18.0" weight="3.0"></edge>
+      <edge id="58780" source="22.0" target="19.0" weight="3.0"></edge>
+      <edge id="58781" source="22.0" target="20.0" weight="4.0"></edge>
+      <edge id="58782" source="22.0" target="21.0" weight="4.0"></edge>
+      <edge id="58783" source="23.0" target="16.0" weight="3.0"></edge>
+      <edge id="58784" source="23.0" target="17.0" weight="3.0"></edge>
+      <edge id="58785" source="23.0" target="18.0" weight="3.0"></edge>
+      <edge id="58786" source="23.0" target="19.0" weight="3.0"></edge>
+      <edge id="58787" source="23.0" target="20.0" weight="4.0"></edge>
+      <edge id="58788" source="23.0" target="21.0" weight="4.0"></edge>
+      <edge id="58789" source="23.0" target="22.0" weight="4.0"></edge>
+      <edge id="58790" source="23.0" target="12.0" weight="2.0"></edge>
+      <edge id="58791" source="23.0" target="11.0" weight="9.0"></edge>
+      <edge id="58792" source="24.0" target="23.0" weight="2.0"></edge>
+      <edge id="58793" source="24.0" target="11.0" weight="7.0"></edge>
+      <edge id="58794" source="25.0" target="24.0" weight="13.0"></edge>
+      <edge id="58795" source="25.0" target="23.0"></edge>
+      <edge id="58796" source="25.0" target="11.0" weight="12.0"></edge>
+      <edge id="58797" source="26.0" target="24.0" weight="4.0"></edge>
+      <edge id="58798" source="26.0" target="11.0" weight="31.0"></edge>
+      <edge id="58799" source="26.0" target="16.0"></edge>
+      <edge id="58800" source="26.0" target="25.0"></edge>
+      <edge id="58801" source="27.0" target="11.0" weight="17.0"></edge>
+      <edge id="58802" source="27.0" target="23.0" weight="5.0"></edge>
+      <edge id="58803" source="27.0" target="25.0" weight="5.0"></edge>
+      <edge id="58804" source="27.0" target="24.0"></edge>
+      <edge id="58805" source="27.0" target="26.0"></edge>
+      <edge id="58806" source="28.0" target="11.0" weight="8.0"></edge>
+      <edge id="58807" source="28.0" target="27.0"></edge>
+      <edge id="58808" source="29.0" target="23.0"></edge>
+      <edge id="58809" source="29.0" target="27.0"></edge>
+      <edge id="58810" source="29.0" target="11.0" weight="2.0"></edge>
+      <edge id="58811" source="30.0" target="23.0"></edge>
+      <edge id="58812" source="31.0" target="30.0" weight="2.0"></edge>
+      <edge id="58813" source="31.0" target="11.0" weight="3.0"></edge>
+      <edge id="58814" source="31.0" target="23.0" weight="2.0"></edge>
+      <edge id="58815" source="31.0" target="27.0"></edge>
+      <edge id="58816" source="32.0" target="11.0"></edge>
+      <edge id="58817" source="33.0" target="11.0" weight="2.0"></edge>
+      <edge id="58818" source="33.0" target="27.0"></edge>
+      <edge id="58819" source="34.0" target="11.0" weight="3.0"></edge>
+      <edge id="58820" source="34.0" target="29.0" weight="2.0"></edge>
+      <edge id="58821" source="35.0" target="11.0" weight="3.0"></edge>
+      <edge id="58822" source="35.0" target="34.0" weight="3.0"></edge>
+      <edge id="58823" source="35.0" target="29.0" weight="2.0"></edge>
+      <edge id="58824" source="36.0" target="34.0" weight="2.0"></edge>
+      <edge id="58825" source="36.0" target="35.0" weight="2.0"></edge>
+      <edge id="58826" source="36.0" target="11.0" weight="2.0"></edge>
+      <edge id="58827" source="36.0" target="29.0"></edge>
+      <edge id="58828" source="37.0" target="34.0" weight="2.0"></edge>
+      <edge id="58829" source="37.0" target="35.0" weight="2.0"></edge>
+      <edge id="58830" source="37.0" target="36.0" weight="2.0"></edge>
+      <edge id="58831" source="37.0" target="11.0" weight="2.0"></edge>
+      <edge id="58832" source="37.0" target="29.0"></edge>
+      <edge id="58833" source="38.0" target="34.0" weight="2.0"></edge>
+      <edge id="58834" source="38.0" target="35.0" weight="2.0"></edge>
+      <edge id="58835" source="38.0" target="36.0" weight="2.0"></edge>
+      <edge id="58836" source="38.0" target="37.0" weight="2.0"></edge>
+      <edge id="58837" source="38.0" target="11.0" weight="2.0"></edge>
+      <edge id="58838" source="38.0" target="29.0"></edge>
+      <edge id="58839" source="39.0" target="25.0"></edge>
+      <edge id="58840" source="40.0" target="25.0"></edge>
+      <edge id="58841" source="41.0" target="24.0" weight="2.0"></edge>
+      <edge id="58842" source="41.0" target="25.0" weight="3.0"></edge>
+      <edge id="58843" source="42.0" target="41.0" weight="2.0"></edge>
+      <edge id="58844" source="42.0" target="25.0" weight="2.0"></edge>
+      <edge id="58845" source="42.0" target="24.0"></edge>
+      <edge id="58846" source="43.0" target="11.0" weight="3.0"></edge>
+      <edge id="58847" source="43.0" target="26.0"></edge>
+      <edge id="58848" source="43.0" target="27.0"></edge>
+      <edge id="58849" source="44.0" target="28.0" weight="3.0"></edge>
+      <edge id="58850" source="44.0" target="11.0"></edge>
+      <edge id="58851" source="45.0" target="28.0" weight="2.0"></edge>
+      <edge id="58852" source="47.0" target="46.0"></edge>
+      <edge id="58853" source="48.0" target="47.0" weight="2.0"></edge>
+      <edge id="58854" source="48.0" target="25.0"></edge>
+      <edge id="58855" source="48.0" target="27.0"></edge>
+      <edge id="58856" source="48.0" target="11.0"></edge>
+      <edge id="58857" source="49.0" target="26.0" weight="3.0"></edge>
+      <edge id="58858" source="49.0" target="11.0" weight="2.0"></edge>
+      <edge id="58859" source="50.0" target="49.0"></edge>
+      <edge id="58860" source="50.0" target="24.0"></edge>
+      <edge id="58861" source="51.0" target="49.0" weight="9.0"></edge>
+      <edge id="58862" source="51.0" target="26.0" weight="2.0"></edge>
+      <edge id="58863" source="51.0" target="11.0" weight="2.0"></edge>
+      <edge id="58864" source="52.0" target="51.0"></edge>
+      <edge id="58865" source="52.0" target="39.0"></edge>
+      <edge id="58866" source="53.0" target="51.0"></edge>
+      <edge id="58867" source="54.0" target="51.0" weight="2.0"></edge>
+      <edge id="58868" source="54.0" target="49.0"></edge>
+      <edge id="58869" source="54.0" target="26.0"></edge>
+      <edge id="58870" source="55.0" target="51.0" weight="6.0"></edge>
+      <edge id="58871" source="55.0" target="49.0" weight="12.0"></edge>
+      <edge id="58872" source="55.0" target="39.0"></edge>
+      <edge id="58873" source="55.0" target="54.0"></edge>
+      <edge id="58874" source="55.0" target="26.0" weight="21.0"></edge>
+      <edge id="58875" source="55.0" target="11.0" weight="19.0"></edge>
+      <edge id="58876" source="55.0" target="16.0"></edge>
+      <edge id="58877" source="55.0" target="25.0" weight="2.0"></edge>
+      <edge id="58878" source="55.0" target="41.0" weight="5.0"></edge>
+      <edge id="58879" source="55.0" target="48.0" weight="4.0"></edge>
+      <edge id="58880" source="56.0" target="49.0"></edge>
+      <edge id="58881" source="56.0" target="55.0"></edge>
+      <edge id="58882" source="57.0" target="55.0"></edge>
+      <edge id="58883" source="57.0" target="41.0"></edge>
+      <edge id="58884" source="57.0" target="48.0"></edge>
+      <edge id="58885" source="58.0" target="55.0" weight="7.0"></edge>
+      <edge id="58886" source="58.0" target="48.0" weight="7.0"></edge>
+      <edge id="58887" source="58.0" target="27.0" weight="6.0"></edge>
+      <edge id="58888" source="58.0" target="57.0"></edge>
+      <edge id="58889" source="58.0" target="11.0" weight="4.0"></edge>
+      <edge id="58890" source="59.0" target="58.0" weight="15.0"></edge>
+      <edge id="58891" source="59.0" target="55.0" weight="5.0"></edge>
+      <edge id="58892" source="59.0" target="48.0" weight="6.0"></edge>
+      <edge id="58893" source="59.0" target="57.0" weight="2.0"></edge>
+      <edge id="58894" source="60.0" target="48.0"></edge>
+      <edge id="58895" source="60.0" target="58.0" weight="4.0"></edge>
+      <edge id="58896" source="60.0" target="59.0" weight="2.0"></edge>
+      <edge id="58897" source="61.0" target="48.0" weight="2.0"></edge>
+      <edge id="58898" source="61.0" target="58.0" weight="6.0"></edge>
+      <edge id="58899" source="61.0" target="60.0" weight="2.0"></edge>
+      <edge id="58900" source="61.0" target="59.0" weight="5.0"></edge>
+      <edge id="58901" source="61.0" target="57.0"></edge>
+      <edge id="58902" source="61.0" target="55.0"></edge>
+      <edge id="58903" source="62.0" target="55.0" weight="9.0"></edge>
+      <edge id="58904" source="62.0" target="58.0" weight="17.0"></edge>
+      <edge id="58905" source="62.0" target="59.0" weight="13.0"></edge>
+      <edge id="58906" source="62.0" target="48.0" weight="7.0"></edge>
+      <edge id="58907" source="62.0" target="57.0" weight="2.0"></edge>
+      <edge id="58908" source="62.0" target="41.0"></edge>
+      <edge id="58909" source="62.0" target="61.0" weight="6.0"></edge>
+      <edge id="58910" source="62.0" target="60.0" weight="3.0"></edge>
+      <edge id="58911" source="63.0" target="59.0" weight="5.0"></edge>
+      <edge id="58912" source="63.0" target="48.0" weight="5.0"></edge>
+      <edge id="58913" source="63.0" target="62.0" weight="6.0"></edge>
+      <edge id="58914" source="63.0" target="57.0" weight="2.0"></edge>
+      <edge id="58915" source="63.0" target="58.0" weight="4.0"></edge>
+      <edge id="58916" source="63.0" target="61.0" weight="3.0"></edge>
+      <edge id="58917" source="63.0" target="60.0" weight="2.0"></edge>
+      <edge id="58918" source="63.0" target="55.0"></edge>
+      <edge id="58919" source="64.0" target="55.0" weight="5.0"></edge>
+      <edge id="58920" source="64.0" target="62.0" weight="12.0"></edge>
+      <edge id="58921" source="64.0" target="48.0" weight="5.0"></edge>
+      <edge id="58922" source="64.0" target="63.0" weight="4.0"></edge>
+      <edge id="58923" source="64.0" target="58.0" weight="10.0"></edge>
+      <edge id="58924" source="64.0" target="61.0" weight="6.0"></edge>
+      <edge id="58925" source="64.0" target="60.0" weight="2.0"></edge>
+      <edge id="58926" source="64.0" target="59.0" weight="9.0"></edge>
+      <edge id="58927" source="64.0" target="57.0"></edge>
+      <edge id="58928" source="64.0" target="11.0"></edge>
+      <edge id="58929" source="65.0" target="63.0" weight="5.0"></edge>
+      <edge id="58930" source="65.0" target="64.0" weight="7.0"></edge>
+      <edge id="58931" source="65.0" target="48.0" weight="3.0"></edge>
+      <edge id="58932" source="65.0" target="62.0" weight="5.0"></edge>
+      <edge id="58933" source="65.0" target="58.0" weight="5.0"></edge>
+      <edge id="58934" source="65.0" target="61.0" weight="5.0"></edge>
+      <edge id="58935" source="65.0" target="60.0" weight="2.0"></edge>
+      <edge id="58936" source="65.0" target="59.0" weight="5.0"></edge>
+      <edge id="58937" source="65.0" target="57.0"></edge>
+      <edge id="58938" source="65.0" target="55.0" weight="2.0"></edge>
+      <edge id="58939" source="66.0" target="64.0" weight="3.0"></edge>
+      <edge id="58940" source="66.0" target="58.0" weight="3.0"></edge>
+      <edge id="58941" source="66.0" target="59.0"></edge>
+      <edge id="58942" source="66.0" target="62.0" weight="2.0"></edge>
+      <edge id="58943" source="66.0" target="65.0" weight="2.0"></edge>
+      <edge id="58944" source="66.0" target="48.0"></edge>
+      <edge id="58945" source="66.0" target="63.0"></edge>
+      <edge id="58946" source="66.0" target="61.0"></edge>
+      <edge id="58947" source="66.0" target="60.0"></edge>
+      <edge id="58948" source="67.0" target="57.0" weight="3.0"></edge>
+      <edge id="58949" source="68.0" target="25.0" weight="5.0"></edge>
+      <edge id="58950" source="68.0" target="11.0"></edge>
+      <edge id="58951" source="68.0" target="24.0"></edge>
+      <edge id="58952" source="68.0" target="27.0"></edge>
+      <edge id="58953" source="68.0" target="48.0"></edge>
+      <edge id="58954" source="68.0" target="41.0"></edge>
+      <edge id="58955" source="69.0" target="25.0" weight="6.0"></edge>
+      <edge id="58956" source="69.0" target="68.0" weight="6.0"></edge>
+      <edge id="58957" source="69.0" target="11.0"></edge>
+      <edge id="58958" source="69.0" target="24.0"></edge>
+      <edge id="58959" source="69.0" target="27.0" weight="2.0"></edge>
+      <edge id="58960" source="69.0" target="48.0"></edge>
+      <edge id="58961" source="69.0" target="41.0"></edge>
+      <edge id="58962" source="70.0" target="25.0" weight="4.0"></edge>
+      <edge id="58963" source="70.0" target="69.0" weight="4.0"></edge>
+      <edge id="58964" source="70.0" target="68.0" weight="4.0"></edge>
+      <edge id="58965" source="70.0" target="11.0"></edge>
+      <edge id="58966" source="70.0" target="24.0"></edge>
+      <edge id="58967" source="70.0" target="27.0"></edge>
+      <edge id="58968" source="70.0" target="41.0"></edge>
+      <edge id="58969" source="70.0" target="58.0"></edge>
+      <edge id="58970" source="71.0" target="27.0"></edge>
+      <edge id="58971" source="71.0" target="69.0" weight="2.0"></edge>
+      <edge id="58972" source="71.0" target="68.0" weight="2.0"></edge>
+      <edge id="58973" source="71.0" target="70.0" weight="2.0"></edge>
+      <edge id="58974" source="71.0" target="11.0"></edge>
+      <edge id="58975" source="71.0" target="48.0"></edge>
+      <edge id="58976" source="71.0" target="41.0"></edge>
+      <edge id="58977" source="71.0" target="25.0"></edge>
+      <edge id="58978" source="72.0" target="26.0" weight="2.0"></edge>
+      <edge id="58979" source="72.0" target="27.0"></edge>
+      <edge id="58980" source="72.0" target="11.0"></edge>
+      <edge id="58981" source="73.0" target="48.0" weight="2.0"></edge>
+      <edge id="58982" source="74.0" target="48.0" weight="2.0"></edge>
+      <edge id="58983" source="74.0" target="73.0" weight="3.0"></edge>
+      <edge id="58984" source="75.0" target="69.0" weight="3.0"></edge>
+      <edge id="58985" source="75.0" target="68.0" weight="3.0"></edge>
+      <edge id="58986" source="75.0" target="25.0" weight="3.0"></edge>
+      <edge id="58987" source="75.0" target="48.0"></edge>
+      <edge id="58988" source="75.0" target="41.0"></edge>
+      <edge id="58989" source="75.0" target="70.0"></edge>
+      <edge id="58990" source="75.0" target="71.0"></edge>
+      <edge id="58991" source="76.0" target="64.0"></edge>
+      <edge id="58992" source="76.0" target="65.0"></edge>
+      <edge id="58993" source="76.0" target="66.0"></edge>
+      <edge id="58994" source="76.0" target="63.0"></edge>
+      <edge id="58995" source="76.0" target="62.0"></edge>
+      <edge id="58996" source="76.0" target="48.0"></edge>
+      <edge id="58997" source="76.0" target="58.0"></edge>
+    </edges>
+  </graph>
+</gexf>

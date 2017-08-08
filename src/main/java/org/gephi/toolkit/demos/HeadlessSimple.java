@@ -100,6 +100,7 @@ public class HeadlessSimple {
             return;
         }
 
+        /*
         //Append imported data to GraphAPI
         importController.process(container, new DefaultProcessor(), workspace);
 
@@ -167,5 +168,7 @@ public class HeadlessSimple {
             ex.printStackTrace();
             return;
         }
+
+*/
     }
 }

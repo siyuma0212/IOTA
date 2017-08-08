@@ -33,6 +33,11 @@
             <artifactId>gephi-toolkit</artifactId>
             <version>0.9.1</version>
         </dependency>
+        <dependency>
+            <groupId>csvreader</groupId>
+            <artifactId>csv</artifactId>
+            <version>1.1</version>
+        </dependency>
     </dependencies>
 
 </project>

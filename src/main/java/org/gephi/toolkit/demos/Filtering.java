@@ -63,7 +63,12 @@ import org.openide.util.Lookup;
 public class Filtering {
 
     public void script() {
-        //Init a project - and therefore a workspace
+        
+        GraphModel graphModel = Lookup.getDefault().lookup(GraphController.class).getGraphModel();
+        AppearanceModel appearanceModel = Lookup.getDefault().lookup(AppearanceController.class).getModel();
+        
+        
+        /*//Init a project - and therefore a workspace
         ProjectController pc = Lookup.getDefault().lookup(ProjectController.class);
         pc.newProject();
         Workspace workspace = pc.getCurrentWorkspace();
@@ -134,5 +139,6 @@ public class Filtering {
         //Count nodes and edges on filtered graph
         graph = graphModel.getDirectedGraphVisible();
         System.out.println("Nodes: " + graph.getNodeCount() + " Edges: " + graph.getEdgeCount());
+*/
     }
 }

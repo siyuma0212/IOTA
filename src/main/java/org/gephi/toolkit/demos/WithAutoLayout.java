@@ -20,9 +20,14 @@ along with Gephi.  If not, see <http://www.gnu.org/licenses/>.
  */
 package org.gephi.toolkit.demos;
 
+import java.awt.BorderLayout;
+import java.awt.Color;
+import java.awt.event.ComponentAdapter;
+import java.awt.event.ComponentEvent;
 import java.io.File;
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
+import javax.swing.JFrame;
 import org.gephi.graph.api.DirectedGraph;
 import org.gephi.graph.api.GraphController;
 import org.gephi.graph.api.GraphModel;
@@ -35,8 +40,15 @@ import org.gephi.layout.plugin.AutoLayout;
 import org.gephi.layout.plugin.force.StepDisplacement;
 import org.gephi.layout.plugin.force.yifanHu.YifanHuLayout;
 import org.gephi.layout.plugin.forceAtlas.ForceAtlasLayout;
+import org.gephi.preview.api.G2DTarget;
+import org.gephi.preview.api.PreviewController;
+import org.gephi.preview.api.PreviewModel;
+import org.gephi.preview.api.PreviewProperty;
+import org.gephi.preview.api.RenderTarget;
+import org.gephi.preview.types.DependantOriginalColor;
 import org.gephi.project.api.ProjectController;
 import org.gephi.project.api.Workspace;
+import org.gephi.toolkit.demos.plugins.preview.PreviewSketch;
 import org.openide.util.Lookup;
 
 /**
@@ -54,7 +66,7 @@ import org.openide.util.Lookup;
 public class WithAutoLayout {
 
     public void script() {
-        //Init a project - and therefore a workspace
+        /*//Init a project - and therefore a workspace
         ProjectController pc = Lookup.getDefault().lookup(ProjectController.class);
         pc.newProject();
         Workspace workspace = pc.getCurrentWorkspace();
@@ -69,14 +81,14 @@ public class WithAutoLayout {
         //Append container to graph structure
         ImportController importController = Lookup.getDefault().lookup(ImportController.class);
         importController.process(container, new DefaultProcessor(), workspace);
-
+*/
         //See if graph is well imported
         GraphModel graphModel = Lookup.getDefault().lookup(GraphController.class).getGraphModel();
         DirectedGraph graph = graphModel.getDirectedGraph();
         System.out.println("Nodes: " + graph.getNodeCount());
         System.out.println("Edges: " + graph.getEdgeCount());
 
-        //Layout for 1 minute
+        //Layout for 1 minute      
         AutoLayout autoLayout = new AutoLayout(1, TimeUnit.MINUTES);
         autoLayout.setGraphModel(graphModel);
         YifanHuLayout firstLayout = new YifanHuLayout(null, new StepDisplacement(1f));
@@ -87,12 +99,13 @@ public class WithAutoLayout {
         autoLayout.addLayout(secondLayout, 0.5f, new AutoLayout.DynamicProperty[]{adjustBySizeProperty, repulsionProperty});
         autoLayout.execute();
 
-        //Export
+        /*//Export
         ExportController ec = Lookup.getDefault().lookup(ExportController.class);
         try {
-            ec.exportFile(new File("autolayout.pdf"));
+            ec.exportFile(new File("try.pdf"));
         } catch (IOException ex) {
             ex.printStackTrace();
         }
+*/
     }
 }
